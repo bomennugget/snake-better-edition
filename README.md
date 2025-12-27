@@ -1,2 +1,3 @@
 # snake-better-edition
-ye just snake but better
+
+ye uhm its a html code
